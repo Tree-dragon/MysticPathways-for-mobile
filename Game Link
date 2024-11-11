@@ -1,11 +1,17 @@
 # MysticPathways-for-mobile
 A game under development and made by a teenager
 
-print(OS+"Android")
-https://www.mediafire.com/file/0ueowpd0si5afyj/MysticPathways-Beta1.1.1.apk/file
-print(OS+"Windows")
-https://www.mediafire.com/file/iqg5ar69xlzax7b/MysticPathways-Beta1.0(windows).exe/file
+Android
+https://shorturl.at/3SKov(might ask to allow installation dont mind as it is not i the play store)
+Windows
+https://shorturl.at/KsHyV(has support for A,D and arrow keys
 
 
-print (Version+"beta1.1.1")
-Attention----Windows os has touch support for only level 1(all levels can be played by keboard by arrow keys and W.A.S.D).In the next update(1.2) there will be support for Touch support for all levels
+print (Version+"beta1.1.3")
+I forgot to upload one 1.1.2 so here
+|updates|
+-save function
+-new sprite
+-new level
+-coin system
+-skin system
